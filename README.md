@@ -4,7 +4,7 @@
 
 <head>
 
-    <title>Abinayasri.Portfolio</title>
+    <title>Abinayasri.github</title>
 
     <style>
 
@@ -48,7 +48,7 @@
 
         /* Add styles for the round profile picture */
 
-        .profile-abi.resume {
+        .profileabi.jpg.pdf{
 
             width: 100px; /* Adjust the size as needed */
 
@@ -190,13 +190,13 @@
 
         <div class="header-content">
 
-            <!-- Add your profile picture here -->
+            <!-- Add your abi.jpg.pdf -->
 
-            <img src="photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="abi.jpg" alt="Your Profile Picture" class="profile-picture">
 
-            <h1>Pranesh S</h1>
+            <h1>Abinayasri P</h1>
 
-            <p>Am Mechanical Engineer</p>
+            <p>Am web designer</p>
 
         </div>
 
@@ -216,7 +216,7 @@
 
             <li><a href="#projects">Projects</a></li>
 
-            <li><a href="#resume">Resume</a></li>
+            <li><a href="#abi.resume">Abi.Resume</a></li>
 
            
 
@@ -226,7 +226,7 @@
 
 
 
-    <section id="about">
+    <section id=AbinayaSri P">
 
         <div class="section-content">
 
@@ -252,13 +252,13 @@
 
 
 
-    <section id="education">
+    <section id="Bsc computer science and Msc computer science,mphil,phd">
 
         <div class="section-content">
 
-            <h2>Education</h2>
+            <h2>Bsc computer science and Msc,Mphil,phd</h2>
 
-            <p>Deemed University  - Mech</p>
+            <p>Anna University  - comp</p>
 
             
 
@@ -270,11 +270,11 @@
 
 
 
-    <section id="skills">
+    <section id="html,cyber security,creating website so on">
 
         <div class="section-content">
 
-            <h2>Skills</h2>
+            <h2>id="html,cyber security,creating website so on"></h2>
 
             <ul>
 
@@ -298,11 +298,11 @@
 
 
 
-    <section id="projects">
+    <section id="project 1">
 
         <div class="section-content">
 
-            <h2>this is my first Projects</h2>
+            <h2>this is my first Project1</h2>
 
         </div>
 
